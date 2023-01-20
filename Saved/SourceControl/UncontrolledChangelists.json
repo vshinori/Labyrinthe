@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Documents/iim/a2/unreal/Labyrinthe/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Documents/iim/a2/unreal/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_FirstPersonGameMode.uasset",
+				"D:/Documents/iim/a2/unreal/Labyrinthe/Content/Le_Labyrinthe/Inputs/IA_Move.uasset",
+				"D:/Documents/iim/a2/unreal/Labyrinthe/Content/Le_Labyrinthe/Inputs/IMC_Perso.uasset",
+				"D:/Documents/iim/a2/unreal/Labyrinthe/Content/Le_Labyrinthe/Blueprints/PC_FP.uasset",
+				"D:/Documents/iim/a2/unreal/Labyrinthe/Content/Le_Labyrinthe/Inputs/IA_Orbit.uasset",
+				"D:/Documents/iim/a2/unreal/Labyrinthe/Content/Le_Labyrinthe/Inputs/IA_Interact.uasset",
+				"D:/Documents/iim/a2/unreal/Labyrinthe/Content/Le_Labyrinthe/Blueprints/AC_Detection.uasset",
+				"D:/Documents/iim/a2/unreal/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Documents/iim/a2/unreal/Labyrinthe/Content/Le_Labyrinthe/Maps/LabyrintheMap.umap",
+				"D:/Documents/iim/a2/unreal/Labyrinthe/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/Documents/iim/a2/unreal/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Torche.uasset"
+			]
+		}
+	]
+}
